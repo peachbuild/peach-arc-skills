@@ -2,7 +2,7 @@
 
 Checked: **2026-09-15**. Verified package: **`@masterpeach/arc-aggregator-sdk@1.0.0`**, with `viem@2.55.10`.
 
-Sources: [Client configuration](https://docs.peach.ag/documentation/arc/aggregator/core-features/api-configuration-cancellation-and-errors), [contract addresses](https://docs.peach.ag/documentation/arc/aggregator/contract-address), [published package](https://www.npmjs.com/package/@masterpeach/arc-aggregator-sdk/v/1.0.0).
+Sources: [SDK source repository](https://github.com/peachbuild/arc-aggregator-sdk), [Client configuration](https://docs.peach.ag/documentation/arc/aggregator/core-features/api-configuration-cancellation-and-errors), [contract addresses](https://docs.peach.ag/documentation/arc/aggregator/contract-address), [published package](https://www.npmjs.com/package/@masterpeach/arc-aggregator-sdk/v/1.0.0).
 
 Version 1.0.0 is the npm `latest` release checked on this date. Its published changelog preserves the 0.3.x integration methods and adds V4 preview pool IDs and deadline clock-skew tolerance. The GitBook changelog still names 0.3.0 as `latest`; use the published 1.0.0 package and its declarations for version-specific behavior.
 

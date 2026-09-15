@@ -48,7 +48,7 @@ Checked **2026-09-15** against the [Aggregator documentation](https://docs.peach
 
 | Package | Verified release |
 | --- | --- |
-| `@masterpeach/arc-aggregator-sdk` | `1.0.0` |
+| [`@masterpeach/arc-aggregator-sdk`](https://github.com/peachbuild/arc-aggregator-sdk) | `1.0.0` |
 | `@masterpeach/launchpad-sdk` | `1.0.0` |
 | `viem` / TypeScript, used for example checks | `2.55.10` / `5.9.2` |
 
