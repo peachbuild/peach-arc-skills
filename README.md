@@ -82,3 +82,7 @@ node tests/check.mjs --consumer "$consumer_dir"
 ```
 
 The checker extracts the exact TypeScript examples into the supplied temporary consumer, compiles them, and runs offline assertions. Repeat these checks and the relevant acceptance cases when changing SDK versions or deployment references.
+
+## License
+
+[MIT](LICENSE) © 2026 giveuonepeach.
